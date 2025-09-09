@@ -16,6 +16,7 @@ Currently exploring the intersection of <b>cybersecurity, programming, and data-
 - Contributing to open-source security projects  </p>
 
 ###
+
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <div align="center">
@@ -50,14 +51,14 @@ Currently exploring the intersection of <b>cybersecurity, programming, and data-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
 </div>
 
-###
+
 
 <h3 align="center">📬 Let's Connect!</h3>
 <div align="left">
   <p>- 💼 <a href="www.linkedin.com/in/lanz-aron-enrique-83079634a">LinkedIn</a><br>- ✉️ <a>enriquelanzaron@gmail.com</a></p>
 </div>
 
-###
+<h1></h1>
 <p align="center">⭐️ <b>Check out my pinned repositories below to see my highlighted projects. Though they are all WIP.</b> </p>
 
  
